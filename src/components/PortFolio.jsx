@@ -60,7 +60,7 @@ function PortFolio() {
               <div>
                 <div className="px-2 font-bold text-xl mb-2">{name}</div>
                 <p className="px-2 text-gray-700">
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                
                 </p>
               </div>
               <div className=" px-6 py-4 space-x-3 justify-around">
