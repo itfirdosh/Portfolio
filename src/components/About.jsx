@@ -10,7 +10,7 @@ function About() {
         <h1 className="text-3xl font-bold mb-5">About</h1>
         <p>
           Hello, I'm Firdosh Siddique, a passionate Web developer with a keen eye for MERN
-          Stack and DevOps Er. . With a background in IT, I strive to create impactful and
+          Stack and DevOps Er.. With a background in IT, I strive to create impactful and
           visually stunning Software solutions that leave a lasting impression.
         </p>
         <br />
@@ -18,7 +18,7 @@ function About() {
           Education & Training
         </h1>
         <span>
-          [MCA, Dr APJ ABdul Kalam Technical University Lucknow, 2023] [AWS: clound Pracititonar, Udemy & College Training, 2023 ] [DevOpsin AWS: code, Build & Test in 2023]
+          [MCA, Dr APJ ABdul Kalam Technical University Lucknow Up, India 2023] [AWS: cloud Pracititonar, Udemy & College Training, 2023 ] [DevOpsin AWS: code, Build & Test in 2023]
         </span>
         <br />
         <br />
